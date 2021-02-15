@@ -1,4 +1,3 @@
-console.log("hi");
 var VanillaTilt = (function () {
   "use strict";
 
