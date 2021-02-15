@@ -1,2 +1,2 @@
 # Glassmorphism Calculator
-## :fire:[Click Here to Visit](glassmorphism-calculator.surge.sh) :heart:
+## :fire:[Click Here to Visit](https://apurbaadhikary.github.io/glassmorphism-calculator/) :heart:
